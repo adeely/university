@@ -7,8 +7,9 @@ int main()
           scanf("%d%d", &a, &b);
 
           c = a + b;
+          c = a - b; 
           
           printf("sum of numbers = %d\n", c);
-
+          
           return 0;
 }
